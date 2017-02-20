@@ -8,3 +8,4 @@ Performance is quite resonable at 30fps for a single lidded eye.
 
 At the moment the "blink" code is commented out and the sketch only draws one eye on the display!
 
+<a href="http://imgur.com/XXACAVT"><img src="http://i.imgur.com/XXACAVT.png" title="source: imgur.com" /></a>
